@@ -1,0 +1,38 @@
+header {
+    background-image: url("/Resources/Images/FlowerWallpaper.jpg");
+    font-size: 100px;
+    font-family: monospace;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: monospace;
+}
+.accident {
+    background-color: crimson;
+}
+
+.strength {
+    color: white;
+    background-color: black; 
+}
+
+.diego {
+    color: white;
+    background-color: black;
+}
+
+.politics {
+    color: white;
+    background-color: black;
+}
+
+.home {
+    color: white;
+    background-color: black;
+}
